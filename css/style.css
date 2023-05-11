@@ -1,0 +1,325 @@
+body{
+
+    padding:0;
+    margin:0;
+
+}
+
+#topbar-section{
+
+    width: 1320px;
+    margin:0 auto;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+
+#bbc_logo{
+
+    width:130px; 
+    height: 50px;
+}
+
+.sign-in{
+    
+    padding: 5px;
+    width: 190px;
+    position: relative;
+    top:5px;
+    margin-left: 10px;
+
+}
+
+.whitespace{
+
+    border-left: 1px solid #D9D9D9;
+    margin-left: 10px;
+}
+
+#person_image{
+
+    width:30px;
+    margin-right: 10px;
+    position: relative;
+    top:-5px;
+
+}
+
+#navlinks{
+    
+    margin-left: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 700px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+
+.search{
+
+    background-color: #f6f6f6;
+    width: 200px;
+    padding: 5px;
+    text-decoration: none;
+    color:black;
+    margin-left: 15px;
+}
+
+#search_button{
+
+    float: left;
+    height: 26px;
+
+}
+
+.search_text{
+
+    float:left;
+    width: 150px;
+
+}
+
+#second-main-bar{
+
+    margin: 0 auto;
+    height:60px;
+    background-color: #B80000;
+
+}
+
+.news{
+
+    width:1320px;
+    margin: 0 auto;
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+}
+
+#third-main-bar{
+
+    margin: 0 auto;
+    background-color: #B80000;
+    height: 40px;
+
+}
+
+.second-links{
+
+    width: 1320px;
+    margin: 0 auto;
+
+}
+
+.second-nav-links, #second-nav-link{
+
+    color: white;
+    text-decoration: none;
+    border-right: 1px solid #BB454F;
+    padding: 0px 12px;
+    font-size: smaller;
+    position: relative;
+    top: 5px;
+
+}
+
+.link-name{
+
+    position: relative;
+    top: -1px;
+
+}
+
+#second-nav-link{
+
+    border: none;
+    padding-right: 0px;
+
+}
+
+#fourth-main-bar{
+
+    width: 1320px;
+    height:40px;
+    margin: 0 auto;
+
+}
+
+#tech{
+
+    font-size: 22px;
+    border-bottom:3px solid #B80000;
+
+}
+
+.col-lg-7{
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#twitter-image{
+
+    width:500px;
+    height: 300px;
+
+}
+
+.twitter-news-content{
+
+    width: 480px;
+    color: #5A5A5A;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+h2 a{
+
+    text-decoration: none;
+    color: #5A5A5A;
+
+}
+
+.twitter-news-content a:hover{
+
+    text-decoration: underline !important;
+    color: #B80000 !important;
+
+}
+
+#clock{
+
+    position:relative;
+    top: -13px;
+    width: 20px;
+    float: left;
+    height: 20px;
+
+}
+
+.content-2, #cont-2, .content-3, #cont-3{
+
+    float: left;
+    padding:0px 5px;
+    border-right: 1px solid #D9D9D9;
+    position: relative;
+    top: -13px;
+    left: -4px;
+    font-size: 14px;
+    text-decoration: none;
+    color: #5A5A5A;
+}
+
+#cont-2 a, #cont-3 a{
+
+    text-decoration: none;
+    color: black;
+    position: relative;
+    top:-1px;
+
+}
+
+#cont-3 {
+    border-right: none;
+}
+
+.txt{
+    position: relative;
+    top: -1px;
+}
+
+.clear{
+
+    clear: both;
+
+}
+
+.other-links ul{
+
+    position: relative;
+    left: -13px;
+
+}
+
+.other-links a {
+
+    text-decoration: none;
+    color: black;
+}
+
+.container-images{
+
+    width: 229px;
+    height: 170px;
+
+}
+
+.image-cards{
+
+    width: 230px;
+    height: 340px;
+    margin:0px 0px 10px 10px;
+
+}
+
+.resize{
+
+    height: 270px;
+
+}
+
+.container-links{
+
+    position: relative;
+    top: 5px;
+    color: black;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Arial,Helvetica,freesans,sans-serif; 
+    font-weight: bold;
+
+}
+
+.img-texts{
+
+    color: #5A5A5A;
+    position: relative;
+    top: -10px;
+    font-size: smaller;
+
+}
+
+.date{
+
+    position: relative;
+    top: 15px;
+
+}
+
+.col-lg-7 a:hover, .second-news-pack a:hover{
+
+    color: #B80000 !important;
+    text-decoration: underline !important;
+
+}
+
+.second-nav-links:hover{
+
+    border-bottom: 4px solid white;
+
+}
+
+.second-news-pack{
+
+    display:flex;
+    flex-wrap: wrap;
+    position: relative;
+    top:70px;
+    justify-content: space-around;
+
+}
+
